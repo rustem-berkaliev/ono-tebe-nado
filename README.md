@@ -1,1 +1,1 @@
-Тестовая работа "Оно тебе надо" на Яндекс.Пракутикуме
+https://github.com/rustem-berkaliev/ono-tebe-nado
